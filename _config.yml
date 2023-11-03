@@ -1,4 +1,4 @@
-baseurl: https://lydiacacao.github.io/
+baseurl: "https://lydiacacao.github.io/"
 permalink: pretty
 title: 'Jekyll Serif'
 
