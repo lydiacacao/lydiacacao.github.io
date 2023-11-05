@@ -9,11 +9,11 @@ bodyClass: page-about
 
 EducationBrightMind is dedicated to advancing the field of education through innovative solutions and strategic insights. 
 
-![Accounting Services](/images/education-bright-mind.jpeg)
-
 1. Our core belief is that: xyzxyz
 2. Every learning environment can be enhanced through a tailored approach that integrates the latest educational strategies and technologies.
 3. As endorsed by leading educational researchers: xyzxyz
+
+![Accounting Services](/images/education-bright-mind.jpeg)
 
 ## Personalized Learning
 
