@@ -48,10 +48,8 @@ Establishing metrics and feedback loops for continuous assessment and improvemen
 
 ## Example of Our Impact
 
-**Case Study: School District Strategic Overhaul**
+**Case Study: xyz**
 
-We collaborated with a school district facing declining student performance and engagement. Our team developed a multi-year educational strategy that included new learning models, community partnerships, and a technology upgrade plan.
-
-- Outcome: Improved student engagement and performance metrics within two years
-- Strategy highlights: Community-based learning, technology-enhanced classrooms
-- Planning success: Detailed execution timeline, regular evaluation
+- Outcome: 
+- Strategy highlights:
+- Planning success: 
