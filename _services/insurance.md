@@ -6,7 +6,7 @@ weight: 7
 
 Providing expertise in choosing and adopting the most effective educational technologies, including learning management systems and collaborative tools, to enhance teaching and learning experiences.
 
-![Accounting Services](/images/education-technology.jpg)
+![Accounting Services](/images/education-technology.jpeg)
 
 At EducationBrightMinds, we recognize that integrating technology in educational settings is critical to preparing students for the future. Our services are designed to help institutions seamlessly incorporate technology into their curriculum and teaching practices.
 
