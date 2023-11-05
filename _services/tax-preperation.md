@@ -1,7 +1,7 @@
 ---
 title: "Educational Technology Integration"
 date: 2019-05-18T12:33:46+10:00
-weight: 7
+weight: 6
 ---
 
 Providing expertise in choosing and adopting the most effective educational technologies, including learning management systems and collaborative tools, to enhance teaching and learning experiences.
