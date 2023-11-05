@@ -5,7 +5,7 @@ weight: 1
 ---
  Creating tailored educational curriculums that meet the specific needs of learners, integrating current academic research and industry trends.
  
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![Accounting Services](/images/curriculum-unsplash.jpeg)
 
 At EducationBrightMinds, we recognize that the heart of learning lies within the curriculum. Our dedicated team of educational consultants works collaboratively with institutions to develop and enhance curricula that inspire and challenge students.
 
