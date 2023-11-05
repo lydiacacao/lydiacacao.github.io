@@ -58,4 +58,4 @@ Collaborated with a school district to initiate a 'Digital Classroom' project th
 
 **Key Takeaway:** Our approach ensures that technology is not just an add-on but a powerful integrated tool that transforms teaching and enhances learning outcomes.
 
-With EducationBrightMinds' Educational Technology Integration services, schools advance towards an innovative future, preparing students to thrive in an increasingly digital world.
+With EducationBrightMinds' Educational Technology Integration services, schools advance towards an innovative future, preparing students to thrive in an increasingly digital world. 
