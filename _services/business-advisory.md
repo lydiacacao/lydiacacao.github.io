@@ -6,7 +6,7 @@ weight: 4
 
  Assisting organizations in crafting long-term education strategies and action plans for growth and development in the educational sector.
  
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![Accounting Services](/images/love-to-learn-unsplash.jpeg)
 
 At EducationBrightMinds, we understand the significance of strategic foresight and meticulous planning in the field of education. We partner with educational institutions to develop robust educational strategies and plans that pave the way for long-term success and innovation.
 
