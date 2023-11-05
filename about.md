@@ -5,10 +5,6 @@ description: About
 bodyClass: page-about
 ---
 
-In the landscape of continuous learning, EducationBrightMinds emerges as a beacon of innovation and excellence. A symphony of ideas, it harmonizes the latest educational trends with timeless teaching techniques, crafting unique learning experiences that resonate with each learner's aspirations. Nestled at the forefront of educational transformation, our dedication is evident in every program we sculpt and every mind we enlighten
-
-![Accounting Services](/images/thom-holmes-Lrfw0U_o9I0-unsplash.jpg)
-
 # Our Philosophy
 
 EducationBrightMind is dedicated to advancing the field of education through innovative solutions and strategic insights. 
@@ -16,6 +12,9 @@ EducationBrightMind is dedicated to advancing the field of education through inn
 1. Our core belief is that: xyzxyz
 2. Every learning environment can be enhanced through a tailored approach that integrates the latest educational strategies and technologies.
 3. As endorsed by leading educational researchers: xyzxyz
+
+![Accounting Services](/images/education-bright-mind.jpeg)
+
 
 ## Personalized Learning
 
