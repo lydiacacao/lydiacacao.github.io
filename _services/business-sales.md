@@ -6,7 +6,7 @@ weight: 2
 
 Offering cutting-edge professional development opportunities for educators and administrators to keep pace with educational innovations and methodologies.
 
-![Accounting Services](/images/development-training-unsplash.jpg)
+![Accounting Services](/images/development-training-unsplash.jpeg)
 
 # Professional Development & Training Services
 
