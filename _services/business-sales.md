@@ -1,87 +1,65 @@
 ---
-title: "Business Sales"
+title: "Professional Development & Training"
 date: 2019-01-28T15:15:26+10:00
 weight: 2
 ---
 
-Cyanee nec pedicis positi. Esse et diem forte quoque et ieiunia
-vixque dixit negari _ullis stamina_: trahit. Tanta rictus in mitia causa, Phoebo
-nisi mater acta serpens cacumen dapibus caeli umidus detegeret viri conlato
-cadet
+Offering cutting-edge professional development opportunities for educators and administrators to keep pace with educational innovations and methodologies.
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![Accounting Services](/images/development-training-unsplash.jpg)
 
-# Objectives
+# Professional Development & Training Services
 
-Financial accounting and financial reporting are often used as synonyms.
+At EducationBrightMinds, we believe in empowering educators and educational staff with the skills and knowledge needed to excel in their roles and foster a positive learning environment. Our professional development and training services are designed to promote growth, innovation, and excellence in education.
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+## Objective
 
-## Relevance
+Our commitment through professional development and training is to:
+- Enhance the competencies and capabilities of educators and educational administrators.
+- Provide ongoing learning opportunities that reflect the latest in educational research and pedagogical strategies.
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
+## Professional Growth
 
-> The ingredients of relevance are the predictive value and confirmatory value.
+### Tailored Training Programs
 
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
+We offer customized training programs that cater to the specific needs of your educators and staff, ensuring relevance and effectiveness.
 
-## Faithful Representation
+### Cutting-edge Pedagogy
 
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
+Incorporating the latest educational research and innovative teaching methodologies to keep your team ahead of the curve.
 
-## Enhancing Qualitative Characteristics
+## Key Features of Our Training
 
-### Verifiability
+### Interactive Workshops
 
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
+Conducting interactive workshops that engage participants and encourage the practical application of new strategies and techniques.
 
-### Comparability
+### Technology Integration
 
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
+Training educators to effectively integrate technology into their teaching practices to enhance learning outcomes.
 
-### Understandability
+### Leadership Coaching
 
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
+Offering leadership development programs for educational administrators to lead with vision and drive systemic change.
+
+### Certification and Credits
+
+Providing opportunities for participants to earn professional certifications and continuing education credits.
 
 ---
 
-## Statement of cash flows
+## Example of Our Impact
 
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
+**Case Study: xyz**
 
-| Cash Inflow | Outflow   | Opening Balance |
-| ----------- | --------- | --------------- |
-| _Monday_    | `Tuesday` | **Wednesday**   |
-| 1           | 2         | 3               |
+We partnered with...
 
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
+- Outcome: 
+- Training highlights: 
+- Professional growth:
 
-- Cash inflow: $20
-- Cash outflow:$7
-- Opening balance: $5
-- Closing balance: $20 – $7 + $5 = $18
+**Important Note:** Our professional development programs are not one-off events but a continuous journey towards personal and professional excellence that adapts to the changing demands of the educational landscape.
 
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
-
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
-
-## Statement of financial position (balance sheet)
-
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement.
-
-- **fixed assets**
-  - property
-  - building
-  - equipment (such as factory machinery)
-- **intangible assets**
-  - copyrights
-  - trademarks
-  - patents
-    - pending
-    - international
-- goodwill
+Through EducationBrightMinds' Professional Development & Training, educators are not just equipped to meet the standards but to set new benchmarks for educational excellence.
 
 Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
