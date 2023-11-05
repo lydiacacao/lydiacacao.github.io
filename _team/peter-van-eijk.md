@@ -3,12 +3,10 @@ title: "Lydia Cao"
 date: 2018-11-19T10:47:58+10:00
 image: "images/team/peter-van-eijk-711986-unsplash.jpg"
 jobtitle: "Founder & Director"
-linkedinurl: "https://www.linkedin.com/"
+linkedinurl: "[https://www.linkedin.com/](https://www.linkedin.com/in/lydiacao/)"
 promoted: true
 weight: 1
 ---
-
-# Meet Lydia Cao
 
 As the founder of EducationBrightMinds, Lydia Cao brings a wealth of expertise and an impressive academic background to the forefront of educational consulting. With a Ph.D. in Education from the University of Cambridge and extensive post-doctoral research at the Harvard Graduate School of Education, Lydia has a deep understanding of the pedagogical theories and practices that drive success in learning institutions.
 
