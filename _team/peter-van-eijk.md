@@ -1,7 +1,7 @@
 ---
 title: "Lydia Cao"
 date: 2018-11-19T10:47:58+10:00
-image: "images/team/lydia-cao.jpg"
+image: "images/team/lydia-cao.jpeg"
 jobtitle: "Founder & Director"
 linkedinurl: "[https://www.linkedin.com/](https://www.linkedin.com/in/lydiacao/)"
 promoted: true
